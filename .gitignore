@@ -1,0 +1,28 @@
+# Build Folders (you can keep bin if you'd like, to store dlls and pdbs)
+bin
+obj
+
+# mstest test results
+TestResults
+
+*resharper.user
+# Visual Studio
+[Dd]ebug/
+[Rr]elease/
+[Pp]ackages/
+*.sln.cache
+*.suo
+*.csproj.user
+ 
+# Resharper
+*[Rr]e[Ss]harper.user
+_ReSharper.*/
+
+# NCrunch
+_NCrunch_*/
+*.ncrunchsolution*
+*.ncrunchproject
+
+# TeamCity
+_TeamCity*/
+
